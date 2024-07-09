@@ -3,10 +3,8 @@
 - *2024.06.13*: &nbsp;🎉🎉 My team got the third place in the Alibaba 2024 Global Mathematics Competition AI Challenge! 🥉 ($2000 bonus)
 - *2024.05.29*: &nbsp;🥳🥳 My thesis has successfully passed the defense as a recommended thesis at Renmin University of China! Looking forward to the day it gets submitted for publication!
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=qixucen.qixucen)
+
 <!--
 **qixucen/qixucen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
