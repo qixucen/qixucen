@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=qixucen)
+![badge](https://kounter.kerolloz.dev/badge/qixucen.qixucen?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=true)
 
 # 🔥 News
 - *2024.06.23*: &nbsp;🎓🎓 I have graduated from Renmin University of China! Reluctant to leave the good friends I've made here, but life always has its crossroads.
